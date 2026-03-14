@@ -13,12 +13,10 @@
 
 
 Lightweight Time-sensitive Memory Plugin
+
 Empower your AI assistant with a three-tier short-to-medium term memory mechanism:
-
-    Working Memory – temporary storage within a conversation.
-
-    Interim Memory – shared across conversations, automatically cleared daily.
-
-    Private Thoughts – recorded discreetly into context, visible only to the AI.
+- Working Memory – temporary storage within a conversation.
+- Interim Memory – shared across conversations, automatically cleared daily.
+- Private Thoughts – recorded discreetly into context, visible only to the AI.
 
 Temporary memory intelligently manages context, bridges conversations, and keeps AI focused and flexible. 
