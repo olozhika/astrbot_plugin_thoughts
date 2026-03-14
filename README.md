@@ -1,14 +1,24 @@
-# astrbot-plugin-helloworld
+# Astrbot记忆暂存区插件[Thoughts]
+# astrbot-plugin-thoughts
 
-AstrBot 插件模板 / A template plugin for AstrBot plugin feature
+**Thoughts - 轻量级时效性记忆插件**
 
-> [!NOTE]
-> This repo is just a template of [AstrBot](https://github.com/AstrBotDevs/AstrBot) Plugin.
-> 
-> [AstrBot](https://github.com/AstrBotDevs/AstrBot) is an agentic assistant for both personal and group conversations. It can be deployed across dozens of mainstream instant messaging platforms, including QQ, Telegram, Feishu, DingTalk, Slack, LINE, Discord, Matrix, etc. In addition, it provides a reliable and extensible conversational AI infrastructure for individuals, developers, and teams. Whether you need a personal AI companion, an intelligent customer support agent, an automation assistant, or an enterprise knowledge base, AstrBot enables you to quickly build AI applications directly within your existing messaging workflows.
+为你的AI助手提供三层短中期记忆管理：
 
-# Supports
+- 工作记忆：会话内临时暂存，用 [暂存] 标签随时记录。
+- 中期记忆：跨会话共享，每日自动清理，告别永久记忆的臃肿。
+- 私人思考：隐藏记录到历史，AI自己可见，用户无感。
 
-- [AstrBot Repo](https://github.com/AstrBotDevs/AstrBot)
-- [AstrBot Plugin Development Docs (Chinese)](https://docs.astrbot.app/dev/star/plugin-new.html)
-- [AstrBot Plugin Development Docs (English)](https://docs.astrbot.app/en/dev/star/plugin-new.html)
+非永久、轻量级，智能管理上下文，让AI更专注、更灵活。
+
+
+Lightweight Time-sensitive Memory Plugin
+Empower your AI assistant with a three-tier short-to-medium term memory mechanism:
+
+    Working Memory – temporary storage within a conversation.
+
+    Interim Memory – shared across conversations, automatically cleared daily.
+
+    Private Thoughts – recorded discreetly into context, visible only to the AI.
+
+Temporary memory intelligently manages context, bridges conversations, and keeps AI focused and flexible. 
