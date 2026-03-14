@@ -12,7 +12,7 @@
 非永久、轻量级，智能管理上下文，让AI更专注、更灵活。
 
 
-Lightweight Time-sensitive Memory Plugin
+**Thoughts - Lightweight Time-sensitive Memory Plugin**
 
 Empower your AI assistant with a three-tier short-to-medium term memory mechanism:
 - Working Memory – temporary storage within a conversation.
