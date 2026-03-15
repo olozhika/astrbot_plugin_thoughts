@@ -1,5 +1,5 @@
 name: astrbot_plugin_thoughts
-display_name: Thoughts - 轻量级时效性记忆插件
+display_name: 记忆暂存区[Thoughts]
 desc: 轻量级时效性记忆插件，为你的AI助手提供三层短中期记忆机制：工作记忆（会话内暂存）、中期记忆（跨会话共享，定期自动清理）和私人思考（隐藏记录至上下文）。智能管理上下文，纯本地临时记忆，打通会话间隔，让AI更专注、更灵活。
 version: v1.0.0
 author: olozhika
