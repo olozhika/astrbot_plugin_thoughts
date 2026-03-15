@@ -1,0 +1,20 @@
+{
+    "interim_memory_cleanup_time": {
+        "type": "string",
+        "title": "中期记忆清理时间 (Cron格式)",
+        "description": "格式为 '分 时 日 月 周'，例如 '55 23 * * *' 表示每天 23:55。'*' 表示匹配所有值。",
+        "default": "55 23 * * *"
+    },
+    "working_memory_prompt": {
+        "type": "string",
+        "title": "工作记忆暂存区提示词",
+        "description": "注入到 System Prompt 中的工作记忆标题。",
+        "default": "【工作记忆暂存区 - 这是你之前暂存的想法或待办】"
+    },
+    "interim_memory_prompt": {
+        "type": "string",
+        "title": "跨对话中期记忆提示词",
+        "description": "注入到 System Prompt 中的中期记忆标题。",
+        "default": "【跨对话中期记忆 - 这些是你近期记录的重要经历】"
+    }
+}
